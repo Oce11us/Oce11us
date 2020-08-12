@@ -1,5 +1,6 @@
 ## Hi! I'm Mayank
 
+<img src="https://raw.githubusercontent.com/Oce11us/Oce11us/master/gh-header-image.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 I'm a final year MSc Biological Science & BE Mechanical Engineering student at BITS Pilani Hyderabad, India.I am passionate about creating technology to provide mutual support, and building community. Some technologies I enjoy working with include Python, Flutter and GraphQL.
 
 
