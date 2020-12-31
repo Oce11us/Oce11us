@@ -6,7 +6,7 @@ I'm a final year MSc Biological Science & BE Mechanical Engineering student at B
 
 ## I'm a Student. 
 ## I’m looking to collaborate with other content creators - to help them grow organically.
-## 2020 Goals: Contribute more to Open Source projects
+## 2021 Goals: Contribute more to Open Source projects
 ## Fun fact: I like to travel, garden and lots of animes, movies and tv shows; and i'm afraid to start a blog.
 
 ## Find me around the web 🌎: 
