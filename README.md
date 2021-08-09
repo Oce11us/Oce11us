@@ -4,10 +4,9 @@
 
 I'm a final year MSc Biological Science & BE Mechanical Engineering student at BITS Pilani Hyderabad, India. I am passionate about creating technology to provide mutual support, and building community. Some technologies I enjoy working with include Python, R Programming, Flutter and GraphQL.
 
-## I'm a Student. 
 ## I’m looking to collaborate with other content creators - to help them grow organically.
 ## 2021 Goals: Contribute more to Open Source projects
-## Fun fact: I like to travel, garden and lots of animes, movies and tv shows; and i'm afraid to start a blog.
+## Fun fact: I like to travel, garden and watch lots of animes, movies and tv shows; and i'm afraid to start a blog.
 
 ## Find me around the web 🌎: 
 - Learning in public on <a href="https://Oce11us.github.io">Oce11us.github.io</a> <a href="https://www.twitch.tv/Oce11us"><img  alt="Oce11us | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitch.svg" /></a> 
